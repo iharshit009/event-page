@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: helloworld
+Version: 0.0.1
+Summary: say hello//
+Home-page: UNKNOWN
+License: UNKNOWN
+Description: # Hello World 
+        
+        This is an example project demonstrating how to publish a python module to PyPI.
+        
+        ## Installation
+        
+        Run the following to install:
+        
+        ```python 
+        pip install helloworld
+        ```
+        
+        ##Usage
+        
+        ```python 
+        from helloworld import say_hello
+        
+        # Generate "Hello, World!"
+        say_hello()
+        
+        # Generate "hello, Everybody!"
+        say_hello('Everybody')
+        ```
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
